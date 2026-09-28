@@ -1,0 +1,2 @@
+# premium-oxblood-glaze-001-oxblood-glaze-reduction-copp
+Tired of inconsistent oxblood glazes that turn green or clear instead of that deep, jewel-like red? Stop guessing—finally systematize your reduction firing parameters with a Notion template built specifically for copper reds.  This template solves the chaos of tracking multiple variables—kiln atmosphere, cooling curves, batch recipes—so you can rep
